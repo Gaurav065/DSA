@@ -1,0 +1,30 @@
+---- Forming equations------
+
+
+1. O(1): mathematics, no loops, no  recursion, no function call
+
+for example: 
+
+def(x,y):
+    result=x*y
+    return result
+
+O(1)
+
+
+2. O(n): loops, recursion, function calls
+
+
+for example: for i in range(X):
+                print(i)
+
+
+3. O(n^c): nested loops or nested functions
+
+
+4. O(log(n)): there is a loop, and the loop vaiable is divided or multiplied 
+
+
+5. O(Log(logn)): when the loop variable is increased or decreased by exponential ammount that is in power for example I^2, 3,4,...n
+
+
